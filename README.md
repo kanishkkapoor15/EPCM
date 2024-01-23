@@ -1,3 +1,5 @@
+Carbon Emissions Preiction Model 
+
 It involves the use of mathematical and computational techniques to make predictions about future carbon and other emissions based on historical data and scientific understanding of the Earth's climate system. This type of modeling plays a crucial role in assessing potential impacts of climate change and in developing strategies for mitigation and adaptation. Here's a general overview of the methodology behind carbon emissions predictive modeling
 Data Collection and Preprocessing: Gather historical climate data, which includes emissions , state wise share of emissions, temperature, etc. Collect data from various sources such as weather stations, satellites, ocean buoys, and climate models. Clean and preprocess the data to remove outliers, correct errors, and fill in missing values.
 
